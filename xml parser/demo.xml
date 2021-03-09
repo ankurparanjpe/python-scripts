@@ -1,0 +1,20 @@
+<productlisting title="Python Products">
+	<products>
+		<name>Python hoodie</name>
+		<description>4654</description>
+		<cost>$50</cost>
+		<shipping>$3</shipping>
+	</products>
+	<products>
+		<name>Python clothes</name>
+		<description>4</description>
+		<cost>$50</cost>
+		<shipping>$3</shipping>
+	</products>
+	<products>
+		<name>Python hat</name>
+		<description>44</description>
+		<cost>$50</cost>
+		<shipping>$3</shipping>
+	</products>
+<product id="4"><name /><description /><cost /><shipping /></product><product id="4"><name /><description /><cost /><shipping /></product></productlisting>

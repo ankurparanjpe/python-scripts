@@ -1,0 +1,6 @@
+open ftp://macland:bsyGfvjqWpbalyK@ftp.brodos.net
+
+cd tracking
+get -latest -filemask=maclandgmbh*.csv *
+close
+exit
