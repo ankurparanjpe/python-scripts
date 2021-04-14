@@ -1,0 +1,14 @@
+{
+  "71:49:de:f0:f6:55" : {
+    "appversion" : 1.9,
+    "channelname" : "kanal2",
+    "devicename" : "back door",
+    "osversion" : 8
+  },
+  "71:49:de:f0:f6:56" : {
+    "appversion" : 0,
+    "channelname" : "abc",
+    "devicename" : "front door",
+    "osversion" : "0"
+  }
+}
